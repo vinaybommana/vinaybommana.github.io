@@ -4,7 +4,7 @@ title:  "Using NASA api"
 date:   2018-08-12
 image: /assets/images/2018-08-12.jpg
 ---
-# Gathering data using NASA api
+## Gathering data using NASA api
 This blog post mainly focuses on using NASA’s apis (there are several of them)
 and handling the data given by the api.
 
@@ -23,4 +23,39 @@ step one,
 import requests
 import json
 import os
+{% endhighlight %}
+
+step two,
+
+get the data from url
+
+{% highlight python %}
+url = "https://api.nasa.gov/planetary/apod?api_key={}".format(api_key)
+{% endhighlight %}
+
+here api_key is the key that you’ve received after registering in NASA api base.
+
+step three,
+get the json data from the following function,
+{% highlight python %}
+def get_json_data(url):
+    '''
+    :input: url <class 'str'>
+    :return: list of dictionaries
+    '''
+    request = requests.get(url)
+    content = json.loads(request.content.decode(chardet.detect(request.content)["encoding"]))
+    return content
+{% endhighlight %}
+
+give the url to `get_json_data()` function
+
+{% highlight python %}
+content = get_json_data(url)
+{% endhighlight %}
+
+download the image using `wget`
+
+{% highlight python %}
+os.system('wget {}'.format(content['hdurl']))
 {% endhighlight %}
