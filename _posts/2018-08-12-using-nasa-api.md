@@ -2,8 +2,9 @@
 layout: post
 title:  "Using NASA api"
 date:   2018-08-12
-image: /assets/images/2018-08-12.jpg
+image: /assets/images/typewriter.jpg
 ---
+![2018-08-12](/assets/images/2018-08-12.jpg)
 ## Gathering data using NASA api
 This blog post mainly focuses on using NASA’s apis (there are several of them)
 and handling the data given by the api.
@@ -23,6 +24,7 @@ step one,
 import requests
 import json
 import os
+import chardet
 {% endhighlight %}
 
 step two,
