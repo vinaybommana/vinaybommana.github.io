@@ -72,9 +72,8 @@ There was a scene in the novel,
 where the encounter It with a silver slug, after everything's over, Ben realises that the love
 between Beverly and Bill is mutual. Ben thinks
 
-{% highlight %}
 *He can never love you as I did Beverly, that's for sure.*
-{% endhighlight %}
+
 I thought all the one side lovers in this world think that way, and was surprised, how 
 king captured this feeling in a 11 year old boy that subtly.
 
