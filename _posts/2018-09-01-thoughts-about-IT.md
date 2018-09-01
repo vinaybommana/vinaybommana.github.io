@@ -27,12 +27,18 @@ Bill and his friends - The Losers Club - come together defeating their own
 devils and try to kill It.
 
 Big Bill -- The Unprecedented Leader of the Club
+
 Ben -- The building and execution guy whatever losers think, he executes
+
 Bev -- The only girl in the club, sort of heroine in the Novel
        but mind you she's not a damsel in distress.
+
 Eddie -- The compass of the Losers, guy holds an aspirator always
+
 Mike -- The black boy in the club, sort of strong character here
+
 Stan -- The Jewish guy, sort of weak guy
+
 Richie -- The Infamous Richie Trashmouth, the humour comes from this guy
 
 
@@ -59,3 +65,26 @@ is actually feeling the pain and fear.
 
 The scenes with Beverly and Tom will always be imprinted on my mind. When Tom dies looking at the 
 deadlights, I gave a whoop - literally.
+
+There is something a single individual cannot do. But when we group together and starting working
+on the problem, we realise this herculian task can't be done by a single individual. Not just
+physically but emotionally as well. Everyone has their problems. Bill's loss. Beverly's pain
+as her father is close to a psychopath and hurts her for smallest mistakes. Eddie's overprotective
+mother. Stan's Jewish descent. Mike's a black guy and in 1958, people are not so liberal about
+a coloured guy. Richie can't cope up with loneliness, that's why he uses his trashmouth to let
+the silence away. Ben is the fat boy who everyone abuses, His infactuation towards Beverly.
+
+There was a scene in the novel,
+where the encounter It with a silver slug, after everything's over, Ben realises that the love
+between Beverly and Bill is mutual. Ben thinks
+
+{% highlight %}
+*He can never love you as I did Beverly, that's for sure.*
+{% endhighlight %}
+I thought all the one side lovers in this world think that way, and was surprised, how 
+king captured this feeling in a 11 year old boy that subtly.
+
+There are several hundred such incredible scenes in the novel that are not filled 
+with horror but with emotion.
+
+King's genius is unparalled in this novel. Give it a read. You wouldn't regret it.
