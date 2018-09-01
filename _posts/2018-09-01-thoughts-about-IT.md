@@ -26,20 +26,14 @@ The story comes back and forth between 1958 and 1985 walks through how,
 Bill and his friends - The Losers Club - come together defeating their own
 devils and try to kill It.
 
-Big Bill -- The Unprecedented Leader of the Club
-
-Ben -- The building and execution guy whatever losers think, he executes
-
-Bev -- The only girl in the club, sort of heroine in the Novel
+* Big Bill -- The Unprecedented Leader of the Club
+* Ben -- The building and execution guy whatever losers think, he executes
+* Bev -- The only girl in the club, sort of heroine in the Novel
        but mind you she's not a damsel in distress.
-
-Eddie -- The compass of the Losers, guy holds an aspirator always
-
-Mike -- The black boy in the club, sort of strong character here
-
-Stan -- The Jewish guy, sort of weak guy
-
-Richie -- The Infamous Richie Trashmouth, the humour comes from this guy
+* Eddie -- The compass of the Losers, guy holds an aspirator always
+* Mike -- The black boy in the club, sort of strong character here
+* Stan -- The Jewish guy, sort of weak guy
+* Richie -- The Infamous Richie Trashmouth, the humour comes from this guy
 
 
 There are several characters in the novel other than these guys like the skateboard
@@ -47,7 +41,7 @@ kid, Bill's wife, Bev's husband Tom etcetera. But the above are the main ones
 the story moves around.
 
 I am not going for a summary here, don't expect it, I am just ranting about the greatness
-of this book and how incredible stephen king is a story teller.
+of this book and how incredible stephen king is, as a story teller.
 
 Mind you, `IT` creeps you up. There are literally nightmares where I am running through
 an abandoned corridor and someone is chasing me with squishy slippers and shoes. I would
