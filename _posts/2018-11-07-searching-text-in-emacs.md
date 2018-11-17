@@ -2,7 +2,7 @@
 layout: post
 title:  "Searching Text in Emacs"
 date:   2018-11-07
-image: /assets/images/graffiti.jpg
+image: /assets/images/vintage.jpg
 ---
 
 ## Using good old grep
