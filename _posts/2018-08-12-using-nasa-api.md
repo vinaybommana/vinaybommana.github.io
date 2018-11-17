@@ -2,7 +2,7 @@
 layout: post
 title:  "Using NASA api"
 date:   2018-08-12
-image: /assets/images/2018-08-12.jpg
+image: /assets/images/backgroud2.jpg
 ---
 
 ## Gathering data using NASA api
