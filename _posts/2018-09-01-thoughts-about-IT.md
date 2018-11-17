@@ -2,15 +2,15 @@
 layout: post
 title:  "IT's not just a horror novel"
 date:   2018-09-01
-image: /assets/images/IT_image.jpg
+image: /assets/images/vintage.jpg
 ---
 
 ## [Contains Spoilers]
 
 To put it foolishly IT is about a bunch of kids who tried to do
 homework assigned to them by the `Other` fails the first time
-tries again 27 years later and then succeeds - or they think 
-they did. The homework is, killing the being that haunts the 
+tries again 27 years later and then succeeds - or they think
+they did. The homework is, killing the being that haunts the
 town of Derry, Maine from a long time.
 
 The Novel starts with a small boy - George Denborough - playing
@@ -57,7 +57,7 @@ deepest secrets and cookies. The Book captures everything.
 Character development in King's novel is so smooth and well written that we think that the guy
 is actually feeling the pain and fear.
 
-The scenes with Beverly and Tom will always be imprinted on my mind. When Tom dies looking at the 
+The scenes with Beverly and Tom will always be imprinted on my mind. When Tom dies looking at the
 deadlights, I gave a whoop - literally.
 
 There is something a single individual cannot do. But when we group together and starting working
@@ -74,10 +74,10 @@ between Beverly and Bill is mutual. Ben thinks
 
 *He can never love you as I did Beverly, that's for sure.*
 
-I thought all the one side lovers in this world think that way, and was surprised, how 
+I thought all the one side lovers in this world think that way, and was surprised, how
 king captured this feeling in a 11 year old boy that subtly.
 
-There are several hundred such incredible scenes in the novel that are not filled 
+There are several hundred such incredible scenes in the novel that are not filled
 with horror but with emotion.
 
 King's genius is unparalled in this novel. Give it a read. You wouldn't regret it.
