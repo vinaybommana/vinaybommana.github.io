@@ -1,30 +1,10 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# jekyllDecent
+[![Build Status](https://travis-ci.org/jwillmer/jekyllDecent.svg?branch=gh-pages)](https://travis-ci.org/jwillmer/jekyllDecent) 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
+[![Release v1.1.9](https://img.shields.io/badge/release-v1.1.9-blue.svg)](https://github.com/jwillmer/jekyllDecent/releases/tag/1.1.9)
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+This is a blog template for a static site generator named [Jekyll](https://jekyllrb.com/docs/home/) based on a [Ghost](https://ghost.org) template named [Decent](https://github.com/serenader2014/decent). 
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Installation instructions, features, previews and more can be found in the **[GitHub generated blog](https://jwillmer.github.io/jekyllDecent)**. This blog is automatically generated out of the source code in the `gh-pages` branch. If you like to see the theme in production have a look at [jwillmer.de](https://jwillmer.de).
 
-## Preview
-
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
-
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+[![](https://raw.githubusercontent.com/jwillmer/jekyllDecent/gh-pages/media/img/2016-06-08-Readme-front-page-previewe.jpg)](https://jwillmer.github.io/jekyllDecent)
