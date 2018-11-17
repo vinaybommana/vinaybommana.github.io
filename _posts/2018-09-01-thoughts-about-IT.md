@@ -2,7 +2,7 @@
 layout: post
 title:  "IT's not just a horror novel"
 date:   2018-09-01
-image: /assets/images/vintage.jpg
+image: /assets/images/IT.jpg
 ---
 
 [Contains Spoilers]
