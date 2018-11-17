@@ -5,6 +5,8 @@ date:   2017-08-13
 image: /assets/images/einsteinface.jpg
 ---
 
+Let's Dance with Python
+
 When I say let's dance, I meant the dance pertaining to The Game of Thrones with swords, axes and Dragon glass.
 This series focuses on web scraping and data analysing using python. Let's take what we know about Python and fight the war against web Others and White Walkers.
 
