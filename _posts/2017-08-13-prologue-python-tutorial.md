@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Different Changes in NeoVim's New Update"
+title:  "Prologue"
 date:   2017-08-13
-image: /assets/images/manpaintsky.jpg
+image: /assets/images/einsteinface.jpg
 ---
 
 When I say let's dance, I meant the dance pertaining to The Game of Thrones with swords, axes and Dragon glass.
