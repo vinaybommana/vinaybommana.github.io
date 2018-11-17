@@ -40,7 +40,14 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - vim
+  - name: vim
+  - name: c
+  - name: atom
+  - name: cplusplus
+  - name: git
+  - name: github
+  - name: gitlab
+  - name: java
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
