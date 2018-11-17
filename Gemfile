@@ -1,12 +1,24 @@
-source 'http://rubygems.org'
+source "https://rubygems.org"
 
-gem "jekyll"
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+ruby '2.4.3'
+
+gem 'materialize-sass'
+gem "jekyll", "~> 3.6.2"
+gem "minima", "~> 2.0"
+gem 'rspec'
+gem 'capybara'
+gem "selenium-webdriver"
+gem "rack-jekyll"
+gem "pry"
+gem "puma"
+
 
 group :jekyll_plugins do
-    gem 'jekyll-mentions'
-    gem 'jekyll-feed'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-redirect-from'
-    gem 'hawkins'                    # jekyll liveserve
+  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-assets"
+  gem "jekyll-minifier"
 end
+
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gemspec

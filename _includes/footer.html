@@ -1,5 +1,10 @@
-<footer class="site-footer">
-    <button class="go-to-top"></button>
-    <p class="copyright"><a href="{{ "" | absolute_url }}" title="{{ site.title }}">{{site.title}}</a> &copy; {{ site.time | date: '%Y' }} | <a href="{{ "/feed.xml" | absolute_url }}" title="RSS Feed">RSS Feed</a></p>
-    <p class="poweredby">powered by <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a> with the <a href="https://github.com/jwillmer/jekyllDecent" title="jekyllDecent Theme">jekyllDecent</a> theme</p>
+<script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="{{site.baseurl}}/assets/js/materialize.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/init.js"></script>
+</body>
+<footer class="page-footer">
+  <div class="footer-copyright" style="padding-left: 30px;">
+    <i class="material-icons" style="padding-right:5px; display:{{site.display_footer}};">copyright</i><p style="display:{{site.display_footer}};">2018 Copyright {{ site.name }} | All rights reserved</p>
+  </div>
 </footer>
+</html>
