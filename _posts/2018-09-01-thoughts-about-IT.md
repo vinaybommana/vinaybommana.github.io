@@ -5,7 +5,7 @@ date:   2018-09-01
 image: /assets/images/vintage.jpg
 ---
 
-## [Contains Spoilers]
+[Contains Spoilers]
 
 To put it foolishly IT is about a bunch of kids who tried to do
 homework assigned to them by the `Other` fails the first time

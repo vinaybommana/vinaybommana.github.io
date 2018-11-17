@@ -5,7 +5,7 @@ date:   2018-11-07
 image: /assets/images/graffiti.jpg
 ---
 
-## Using good old grep
+Using good old grep
 
 press meta + x grep #Enter#
 
