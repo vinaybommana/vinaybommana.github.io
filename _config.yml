@@ -8,13 +8,13 @@ url: ""
 
 display_footer: none  #change this to 'none' if you want to hide the footer copyright text
 
-parallax_image_one: assets/images/autumn.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/autumn.jpg
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
 
 project_one: "Hindu Editorial Scraper"
 project_one_description: a simple scraper to read the hindu editorials
 project_one_url: https://github.com/vinaybommana/Hindu_editorial_scraper
-project_one_icon: location_on
+project_one_icon: assets/images/origami.jpg
 
 project_two: Second Project
 project_two_description: Describe your project!
