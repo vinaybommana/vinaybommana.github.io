@@ -15,7 +15,9 @@ town of Derry, Maine from a long time.
 
 The Novel starts with a small boy - George Denborough - playing
 on a stormy morning with a paper boat made by his brother,
-Bill Denborough - who is sort of the hero of this novel.
+Bill Denborough - who is sort of the hero of this novel. We are
+introduced to the elephant in the room - Pennywise The Clown in the
+second page itself.
 
 As in any horror novel, George is killed by Pennywise the clown
 by amputating off his hand from the body. The Scene is horrifying
@@ -43,7 +45,7 @@ the story moves around.
 I am not going for a summary here, don't expect it, I am just ranting about the greatness
 of this book and how incredible stephen king is, as a story teller.
 
-Mind you, `IT` creeps you up. There are literally nightmares where I am running through
+Mind you, `IT` creeps you out. There are literally nightmares where I am running through
 an abandoned corridor and someone is chasing me with squishy slippers and shoes. I would
 always wake up with penny wise's face laughing maniacally.
 
@@ -52,7 +54,8 @@ we used to feel. The horrors in the dark, how we used to get scared in the night
 ghosts.
 
 He captures the childhood insecurities. our friends, how we used to bond with them and share our
-deepest secrets and cookies. The Book captures everything.
+deepest secrets and cookies. The Book captures everything, Mainly how powerful we are as
+kids when we think we can achieve anything and everything in this world.
 
 Character development in King's novel is so smooth and well written that we think that the guy
 is actually feeling the pain and fear.
@@ -74,8 +77,12 @@ between Beverly and Bill is mutual. Ben thinks
 
 *He can never love you as I did Beverly, that's for sure.*
 
-I thought all the one side lovers in this world think that way, and was surprised, how
+I felt how Ben's lost fight in loving Beverly, and was surprised, how
 king captured this feeling in a 11 year old boy that subtly.
+
+Bill's and Richie's confrontation with Pennywise for the first time, The werewolf scene is
+so good. Through Richie's persepective, king captured the deadly danger that is awaiting
+the kids and how Bill is ready for it.
 
 There are several hundred such incredible scenes in the novel that are not filled
 with horror but with emotion.
