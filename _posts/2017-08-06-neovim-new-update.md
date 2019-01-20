@@ -2,7 +2,9 @@
 layout: post
 title:  "Different Changes in NeoVim's New Update"
 date:   2017-08-06
-image: /assets/images/manpaintsky.jpg
+excerpt: "Neovim's new cursor styling"
+tags: [Neovim, vim]
+comments: false
 ---
 
 Neovim's new cursor styling

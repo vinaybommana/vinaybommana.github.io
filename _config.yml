@@ -1,7 +1,7 @@
 # Site
 title:              Zarwis Talks Here
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'My Thoughts and Opinions.'
+description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,9 +38,9 @@ disqus_shortname:   zarwis
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+twitter:            vinaybommana789
 facebook:           username
-github-url:         username
+github-url:         www.github.com/vinaybommana
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
