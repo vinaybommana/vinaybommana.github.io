@@ -12,8 +12,14 @@ Neovim's new cursor styling
 NeoVim Changed the cursor styling from the single redundant block to different styles - like block in normal mode, underscore in replace mode,
 and single line pipe type symbol in insert mode which I really like. Thank you NeoVim developers for that.
 
-![neovim](/assets/images/screenshot1.png)
-![neovim2](/assets/images/screenshot2.png)
+{% highlight html %}
+<figure class="half">
+    <a href="assets/img/screenshot1.png"><img src="assets/img/screenshot1.png"></a>
+    <a href="assets/img/screenshot2.png"><img src="assets/img/screenshot2.png"></a>
+    <figcaption>Neo vim's New changes</figcaption>
+</figure>
+{% endhighlight %}
+
 
 I feel the wheels under good old vim rolling towards the NeoVim station.
 
