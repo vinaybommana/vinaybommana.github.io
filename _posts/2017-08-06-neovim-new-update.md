@@ -13,8 +13,8 @@ NeoVim Changed the cursor styling from the single redundant block to different s
 and single line pipe type symbol in insert mode which I really like. Thank you NeoVim developers for that.
 
 <figure class="half">
-    <a href="images/screenshot1.png"><img src="images/screenshot1.png"></a>
-    <a href="images/screenshot2.png"><img src="images/screenshot2.png"></a>
+    ![Neovim1](/images/screenshot1.png){:class="img-responsive"}
+    ![Neovim2](/images/screenshot2.png){:class="img-responsive"}
     <figcaption>Neo vim's New changes</figcaption>
 </figure>
 
