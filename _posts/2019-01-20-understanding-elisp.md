@@ -32,7 +32,8 @@ There are mainly four types of elisp conditionals.
 * unless
 * cond
 
-1. if
+
+1. if (Special Form)
 
 > `if` chooses between the then-form and the else-forms based on the value of condition. If the evaluated condition is non-nil, then-form is evaluated and the result returned. Otherwise, the else-forms are evaluated in textual order, and the value of the last one is returned. (The else part of if is an example of an implicit progn.
 
@@ -45,6 +46,13 @@ There are mainly four types of elisp conditionals.
 
 {% endhighlight %}
 > This returns `very-false`.
+
+{% highlight elisp %}
+
+(if evil-mode
+  (powerline-raw (powerline-evil-tag) evil-face)
+)
+{% endhighlight %}
 
 ## lists
 
