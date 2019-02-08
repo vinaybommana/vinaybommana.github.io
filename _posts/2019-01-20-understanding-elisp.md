@@ -6,23 +6,19 @@ excerpt: "Elisp conditionals and much more - Part 1"
 tags: [Elisp, emacs]
 comments: false
 ---
+
 # making .emacs to read your own customizations
 
 Add these following lines to your `.emacs` file this will load all the
 `*.el` files in your `~/.emacs.d/lisp` directory.
 
-{% highlight elisp %}
-
+``` elisp
 ;; load custom files ;; from emacs stack exchange (defun load-directory
 (dir) (let ((load-it (lambda (f) (load-file (concat
 (file-name-as-directory dir) f))) )) (mapc load-it (directory-files dir
 nil "\\.el$")))) (load-directory "~/.emacs.d/lisp")
 
-{% endhighlight %}
-
-
-<a id="org101054c"></a>
-
+```
 # conditionals
 
 There are mainly four types of elisp conditionals.
@@ -31,9 +27,6 @@ There are mainly four types of elisp conditionals.
 -   which
 -   unless
 -   cond
-
-
-<a id="org723efea"></a>
 
 ### if (Special Form)
 
@@ -46,17 +39,14 @@ There are mainly four types of elisp conditionals.
 > `if` condition has the value nil, and no else-forms are given, if
 > returns nil.
 
-{% highlight elisp %} (if nil (print 'true) 'very-false)
+```elisp
+(if nil (print 'true) 'very-false)
+```
+> This returns `very-false`.
 
-{% endhighlight %} > This returns `very-false`.
-
-{% highlight elisp %}
-
-(if evil-mode (powerline-raw (powerline-evil-tag) evil-face) ) {%
-endhighlight %}
-
-
-<a id="orgc9df81c"></a>
+``` elisp
+(if evil-mode (powerline-raw (powerline-evil-tag) evil-face) )
+```
 
 ### cond (Special Form)
 
