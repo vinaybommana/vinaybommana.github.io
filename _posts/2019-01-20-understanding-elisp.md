@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding Elisp"
-date:   2017-01-20
+date:   2019-01-20
 excerpt: "Elisp conditionals and much more - Part 1"
 tags: [Elisp, emacs]
 comments: false
