@@ -7,19 +7,17 @@ tags: [Elisp, emacs]
 comments: false
 ---
 
-# making .emacs to read your own customizations
+## making .emacs to read your own customizations
 
 Add these following lines to your `.emacs` file this will load all the
 `*.el` files in your `~/.emacs.d/lisp` directory.
 
-``` elisp
-;; load custom files ;; from emacs stack exchange (defun load-directory
-(dir) (let ((load-it (lambda (f) (load-file (concat
-(file-name-as-directory dir) f))) )) (mapc load-it (directory-files dir
-nil "\\.el$")))) (load-directory "~/.emacs.d/lisp")
+	;; load custom files ;; from emacs stack exchange (defun load-directory
+	(dir) (let ((load-it (lambda (f) (load-file (concat
+	(file-name-as-directory dir) f))) )) (mapc load-it (directory-files dir
+	nil "\\.el$")))) (load-directory "~/.emacs.d/lisp")
 
-```
-# conditionals
+## conditionals
 
 There are mainly four types of elisp conditionals.
 
@@ -39,14 +37,10 @@ There are mainly four types of elisp conditionals.
 > `if` condition has the value nil, and no else-forms are given, if
 > returns nil.
 
-```elisp
-(if nil (print 'true) 'very-false)
-```
+	(if nil (print 'true) 'very-false)
 > This returns `very-false`.
 
-``` elisp
-(if evil-mode (powerline-raw (powerline-evil-tag) evil-face) )
-```
+	(if evil-mode (powerline-raw (powerline-evil-tag) evil-face) )
 
 ### cond (Special Form)
 
