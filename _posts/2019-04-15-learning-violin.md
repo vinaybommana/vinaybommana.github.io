@@ -22,7 +22,7 @@ These are the fingering positions:
 
 `sa`
 open `A` string
-![sa](/images/sa.jpg){:class="img-responsive"}
+![sa](/images/_sa.jpg){:class="img-responsive"}
 
 `ri`
 ![ri](/images/ri.jpg){:class="img-responsive"}
@@ -46,7 +46,7 @@ open `E` string
 ![ni](/images/ni.jpg){:class="img-responsive"}
 
 `sa`*
-![sa*](/images/_sa.jpg){:class="img-responsive"}
+![sa*](/images/sa.jpg){:class="img-responsive"}
 
 
 The practice exercise for just playing the violin is just
