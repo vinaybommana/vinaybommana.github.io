@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "My First Impressions on Learning Violin"
+date:   2019-04-15
+excerpt: "Journal for my journey through learning violin"
+tags: [violin, music, Learning]
+comments: false
+---
+
+Today I've started learning violin. I think my violin teacher is giving
+lessons the indian way. The strings are named `1, 2, 3, 4`, rather than
+`E, A, D, G` - the normal standard. The `swara`, `note` in telugu way are
+
+    sa , ri, ga, ma
+
+    pa, dha, ni, sa.
+
+The fingering positions are slightly different from the
+normal first position I've seen.
+
+These are the fingering positions:
+
+`sa`
+![sa](/images/sa.png){:class="img-responsive"}
+
+`ri`
+![ri](/images/ri.png){:class="img-responsive"}
+
+`ga`
+![ga](/images/ga.png){:class="img-responsive"}
+
+`ma`
+![ma](/images/ma.png){:class="img-responsive"}
+
+`pa`
+![pa](/images/pa.png){:class="img-responsive"}
+
+
+`dha`
+![dha](/images/dha.png){:class="img-responsive"}
+
+
+`ni`
+![ni](/images/ni.png){:class="img-responsive"}
+
+`sa`*
+![sa*](/images/_sa.png){:class="img-responsive"}
+
+
+The practice exercise for just playing the violin is just
+using bow on `sa` and `pa` for 20 times without gaps,
+for now, I am doing a bad job not delaying and changing
+the `A` and `E` string at once easily
+
