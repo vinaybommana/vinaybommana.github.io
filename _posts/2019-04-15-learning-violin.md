@@ -21,6 +21,7 @@ normal first position I've seen.
 These are the fingering positions:
 
 `sa`
+open `A` string
 ![sa](/images/sa.jpg){:class="img-responsive"}
 
 `ri`
@@ -33,6 +34,7 @@ These are the fingering positions:
 ![ma](/images/ma.jpg){:class="img-responsive"}
 
 `pa`
+open `E` string
 ![pa](/images/pa.jpg){:class="img-responsive"}
 
 
@@ -51,4 +53,22 @@ The practice exercise for just playing the violin is just
 using bow on `sa` and `pa` for 20 times without gaps,
 for now, I am doing a bad job not delaying and changing
 the `A` and `E` string at once easily
+
+for a song each part consists of four notes,
+
+My first practice song is simple
+
+1. 
+
+```
+	sa  ri  ga  ma  , pa  dha  ni  sa*
+	sa* ni  dha pa  , ma  ga   ri  sa
+```
+
+2.
+
+```
+	sa  ri  ga  ma,  sa  ri  ga  ma,  sa  ri  ga  ma, pa  dha  ni  sa*
+	sa*  ni  dha  pa,  sa*  ni  dha  pa,  sa*  ni  dha  pa, ma  ga  ri  sa
+```
 
