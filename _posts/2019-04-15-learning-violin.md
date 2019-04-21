@@ -21,30 +21,30 @@ normal first position I've seen.
 These are the fingering positions:
 
 `sa`
-![sa](/images/sa.png){:class="img-responsive"}
+![sa](/images/sa.jpg){:class="img-responsive"}
 
 `ri`
-![ri](/images/ri.png){:class="img-responsive"}
+![ri](/images/ri.jpg){:class="img-responsive"}
 
 `ga`
-![ga](/images/ga.png){:class="img-responsive"}
+![ga](/images/ga.jpg){:class="img-responsive"}
 
 `ma`
-![ma](/images/ma.png){:class="img-responsive"}
+![ma](/images/ma.jpg){:class="img-responsive"}
 
 `pa`
-![pa](/images/pa.png){:class="img-responsive"}
+![pa](/images/pa.jpg){:class="img-responsive"}
 
 
 `dha`
-![dha](/images/dha.png){:class="img-responsive"}
+![dha](/images/dha.jpg){:class="img-responsive"}
 
 
 `ni`
-![ni](/images/ni.png){:class="img-responsive"}
+![ni](/images/ni.jpg){:class="img-responsive"}
 
 `sa`*
-![sa*](/images/_sa.png){:class="img-responsive"}
+![sa*](/images/_sa.jpg){:class="img-responsive"}
 
 
 The practice exercise for just playing the violin is just
