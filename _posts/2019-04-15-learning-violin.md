@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Impressions on Learning Violin"
-date:   2019-04-15
+date:   2019-05-03
 excerpt: "Journal for my journey through learning violin"
 tags: [violin, music, Learning]
 comments: false
@@ -57,6 +57,8 @@ the `A` and `E` string at once easily
 for a song each part consists of four notes,
 
 My first practice song is simple
+it's called:
+`maaya maalava goula raagam - aadhi thaalam`
 
 1. 
 
@@ -65,10 +67,46 @@ My first practice song is simple
 	sa* ni  dha pa  , ma  ga   ri  sa
 ```
 
+combinational notes
+
 2.
 
 ```
 	sa  ri  ga  ma,  sa  ri  ga  ma,  sa  ri  ga  ma, pa  dha  ni  sa*
 	sa*  ni  dha  pa,  sa*  ni  dha  pa,  sa*  ni  dha  pa, ma  ga  ri  sa
+```
+
+3.
+
+```
+	sa  ri  ga  ma,  sa  ri  sa  ri,  sa  ri  ga  ma, pa  dha  ni  sa*
+	sa*  ni  dha  pa,  sa*  ni  sa*  ni,  sa*  ni  dha  pa, ma  ga  ri  sa
+```
+
+4.
+
+```
+	sa  ri  ga  ma,  pa  ma  ga  ri,  sa  ri  ga  ma, pa  dha  ni  sa*
+	sa*  ni  dha  pa, ma  pa  dha  ni,  sa*  ni  dha  pa, ma  ga  ri  sa
+```
+
+5.
+here `paa` refers to pa and pa in `first instance`
+similarly `maa` refers to ma and ma in `first instance`.
+Things change in second instance,
+`paa` changes to slightly slower elongated note in
+	* `second instance` --> which is twice faster than `first instance`.
+	* `third instance`  --> which is twice as fast as `second instance`.
+
+```
+	sa   ri  ga   ma,  paa   paa ,  sa  ri  ga  ma, pa  dha  ni  sa*
+	sa*  ni  dha  pa,  maa   maa ,  sa*  ni  dha  pa, ma  ga  ri  sa
+```
+
+6.
+
+```
+	saa*  ni  dha, nii  dha  pa, dhaa  pa  ma, paa   paa
+	ga   ma  pa  dha, ni  dha  pa  ma, ga  ma  pa  ga , ma  ga  ri  sa
 ```
 
