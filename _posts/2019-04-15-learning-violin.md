@@ -92,9 +92,13 @@ combinational notes
 
 5.
 here `paa` refers to pa and pa in `first instance`
+
 similarly `maa` refers to ma and ma in `first instance`.
+
 Things change in second instance,
+
 `paa` changes to slightly slower elongated note in
+
 	* `second instance` --> which is twice faster than `first instance`.
 	* `third instance`  --> which is twice as fast as `second instance`.
 
